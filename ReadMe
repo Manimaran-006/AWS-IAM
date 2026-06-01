@@ -29,8 +29,8 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
 
+<img width="1350" height="592" alt="image" src="https://github.com/user-attachments/assets/9f1bf871-59cb-4de1-ac4a-73d58d850e19" />
 
-<img width="1350" height="592" alt="image" src= "https://github.com/user-attachments/assets/9f1bf871-59cb-4de1-ac4a-73d58d850e19" />
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
@@ -82,6 +82,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
 
 ## Author
-**Name:** Manimaran V and 212224220060
+**Name:** Manimaran V and 21222422060
 
 **Course:** Introduction to Cloud Computing  
+
